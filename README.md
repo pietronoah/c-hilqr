@@ -13,7 +13,7 @@ Key features include:
   - **AL**: A penalty-based approach that adapts constraints to allow tighter navigation.
 - Open-source implementation of core methods used for simulations and performance comparisons.
 
-## Installation
+## Environment installation
 
 1. Clone the repository.
     ```bash
