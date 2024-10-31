@@ -1,0 +1,13 @@
+name: chilqr
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - scipy
+  - pytorch
+  - matplotlib
+  - ipython
+  - ffmpeg
+  - pyfiglet
+prefix: 
