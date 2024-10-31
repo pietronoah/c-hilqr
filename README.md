@@ -50,3 +50,18 @@ To run the solver:
 ```bash
 python tests/bouncing_ball.py
 ```
+
+# Citation
+
+If you find this repository helpful in your research, please cite the corresponding paper:
+
+```bibtex
+@misc{crestaz2024constrainedtrajectoryoptimizationhybrid,
+      title={Constrained Trajectory Optimization for Hybrid Dynamical Systems}, 
+      author={Pietro Noah Crestaz and Gokhan Alcan and Ville Kyrki},
+      year={2024},
+      eprint={2410.22894},
+      archivePrefix={arXiv},
+      primaryClass={eess.SY},
+      url={https://arxiv.org/abs/2410.22894}, 
+}
