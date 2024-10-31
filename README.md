@@ -34,7 +34,7 @@ Key features include:
 
 ## Usage
 
-You can modify the main parameters of the problem directly within the test files, located in `tests/`. Key variables include:
+You can modify the main parameters of the problem directly within the test files. Key variables include:
 - **`x_start`**: Initial state of the system.
 - **`state_goal`**: Desired goal state.
 - **`Q`, `R`, `QT`**: Weight matrices for cost function terms. The last term in `Q` and `QT` represents the barrier state cost weight.
@@ -48,7 +48,7 @@ You can modify the main parameters of the problem directly within the test files
 
 To run the solver:
 ```bash
-python tests/bouncing_ball.py
+python bouncing_ball_AL.py
 ```
 
 # Citation
