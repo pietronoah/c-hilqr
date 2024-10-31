@@ -1,6 +1,6 @@
 # Constrained HiLQR
 
-This repository contains the code for the publication *"Constrained Trajectory Optimization for Hybrid Dynamical Systems"* by Pietro Noah Crestaz, Gokhan Alcan, and Ville Kyrki. The code implements a constrained version of the Hybrid iterative Linear Quadratic Regulator (HiLQR) algorithm, designed to optimize trajectories for hybrid dynamical systems while respecting constraints such as obstacle avoidance and input limits. 
+This repository contains the code for the publication *"Constrained Trajectory Optimization for Hybrid Dynamical Systems"* by Pietro Noah Crestaz, Gökhan Alcan, and Ville Kyrki. The code implements a constrained version of the Hybrid iterative Linear Quadratic Regulator (HiLQR) algorithm, designed to optimize trajectories for hybrid dynamical systems while respecting constraints such as obstacle avoidance and input limits. 
 
 ## Overview
 
